@@ -1,0 +1,10 @@
+{
+    "Productos": [
+      {
+        "id": "50ed",
+        "nombre": "spiderman",
+        "precio": "20",
+        "imagen": "https://imgs.search.brave.com/ap8-_R0zWiJ0lCJyH7URFr1rizpKMgdjYGvXQkLS4F8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtZXUuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzQxRWFiRlotYytM/LmpwZw"
+      }
+    ]
+  }
